@@ -1,7 +1,7 @@
 from Class_Interface import Interface
 
 if __name__ == '__main__':
-    print(f'{ "*"  * 3} Сначало давайте подключимя к БД { "*"  * 3}')
+    print(f'{ "*"  * 3} Сначало давайте подключимcя к БД { "*"  * 3}')
     database_name = input('database_name: ')
     user = input('user: ')
     password = input('password: ')
